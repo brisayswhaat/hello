@@ -1,0 +1,12 @@
+// import Bourbon
+@import 'bower_components/bourbon/app/assets/stylesheets/_bourbon.scss';
+
+// import Neat
+@import 'bower_components/neat/app/assets/stylesheets/_neat.scss';
+
+// import Normalize
+@import 'bower_components/normalize-css/normalize.css';
+
+// import Styles/SCSS files
+@import 'styles/base';
+@import 'styles/structure';
