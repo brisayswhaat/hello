@@ -1,0 +1,39 @@
+//    Base Styles
+//    Last Updated 100215
+//    B. Piccari
+
+//    Colors
+$brand-teal:          #33a4a6;
+$brand-gray:          #363636;
+$brand-mustard:       #dc9d49;
+$off-white:           #f3f5f6;
+$white:               #fff;
+$other-white:         rgba(255,255,255,0.9);
+
+//    Fonts
+$brand-sans-serif: 'proxima-nova', 'Proxima Nova', 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+$brand-serif: 'Merriweather', Georgia, Times, serif;
+
+$font-weight-light:   300;
+$font-weight-regular: 400;
+$font-weight-bold:    700;
+
+// 1rem = 14px
+$font-size-title:     2.5rem;
+$font-size-body:      2.1rem;
+$font-size-small:     1.5rem;
+$font-size-footer:    1rem;
+
+// break points
+$screen-small:        320px;
+$screen-medium:       768px;
+$screen-large:        960px;
+$screen-xlarge:       1050px;
+$screen-xxlarge:      1200px;
+
+//z index
+$layer-subzero:       -1;
+$layer-zero:          0;
+$layer-one:           1000;
+$layer-two:           2000;
+$layer-three:         3000;
